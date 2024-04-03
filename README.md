@@ -17,7 +17,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Link do Projeto
 
-Você pode encontrar o projeto no seguinte link: [Card3D](https://github.com/seu-usuario/nome-do-repositorio](https://card3-d.vercel.app/))
+Você pode encontrar o projeto no seguinte link: [Card3D](https://card3-d.vercel.app/)
 
 
 
